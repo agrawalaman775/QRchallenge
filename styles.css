@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(167, 192, 192);
+    text-align: center;
+
+}
+.qr-body {
+    background-color: white;
+    display: inline-block;
+    border-radius: 18px;
+    margin-top: 150px;
+}
+.qr {
+    height: 250;
+    width: 300px;
+    border-radius: 18px;
+    margin: 15px 15px 20px 15px;
+}
+h2 {
+    width: 280px;
+    margin: auto;
+}
+p {
+    width: 240px;
+    margin: auto;
+    color: gray;
+    padding-top: 20px;
+}
